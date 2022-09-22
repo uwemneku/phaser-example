@@ -1,0 +1,10 @@
+html {
+  background-color: rgb(67, 65, 65);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+canvas {
+  margin: 0px;
+  display: block;
+}
